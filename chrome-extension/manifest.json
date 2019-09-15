@@ -25,3 +25,12 @@
   ],
   "web_accessible_resources": ["script.js"]
 }
+{
+  ...
+  "web_accessible_resources": [
+    "images/*.png",
+    "style/double-rainbow.css",
+    "script/double-rainbow.js",
+    "script/main.js",
+    "templates/*"
+  ],
